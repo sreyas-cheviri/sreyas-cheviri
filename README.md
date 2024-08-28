@@ -1,7 +1,8 @@
 <h4 align="left">Hi 👋, I'm sreyas</h4>
 <h4 align="left">webdev</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreyas-cheviri&label=Profile%20views&color=0e75b6&style=flat" alt="sreyas-cheviri" /> </p>
-- 📫 How to reach me **sreyascheviri@gmail.com**
+📫 How to reach me: [sreyascheviri@gmail.com](mailto:sreyascheviri@gmail.com)
+
 
 
 <h5 align="left">Languages and Tools:</h5>
