@@ -1,4 +1,3 @@
-<h4 align="left">Hi , I'm sreyas</h4>
 
 reach me @ <a href="mailto:sreyascheviri@gmail.com">sreyascheviri@gmail.com</a>
 
