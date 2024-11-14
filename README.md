@@ -1,8 +1,15 @@
+### hello ~
 
-reach me @ <a href="https://sreyascheviri.vercel.app/" target="_blank">sreyascheviri</a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sreyas-cheviri&label=Profile%20views&color=0e75b6&style=flat" alt="sreyas-cheviri" /> </p>
+passionate about development and design.
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sreyas-cheviri&theme=dark&hide_border=true" alt="GitHub Streak" width="200" />
+I'm currently learning & building cool web applications.
 
+<details>
+<summary>⚡️ More about my coding journey</summary>
+<br />
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreyas-cheviri&layout=compact&hide=css,html)
 
+![sreyas-cheviri's github stats](https://github-readme-stats.vercel.app/api?username=sreyas-cheviri&count_private=true&show_icons=true&theme=onedark)
+
+</details>
