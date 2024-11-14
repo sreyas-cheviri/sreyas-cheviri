@@ -1,6 +1,6 @@
 ### hello ~
 
-[![sreyascheviri](https://img.shields.io/badge/sreyas%20cheviri-000000?style=for-the-badge&logo=link&logoColor=white)](https://yourwebsite.com)
+[![sreyascheviri](https://img.shields.io/badge/sreyas%20cheviri-000000?style=for-the-badge&logo=link&logoColor=white)](https://sreyascheviri.vercel.app/)
 
 passionate about development and design.
 
