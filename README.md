@@ -1,5 +1,7 @@
 ### hello ~
 
+[![sreyascheviri](https://img.shields.io/badge/sreyas%20cheviri-000000?style=for-the-badge&logo=link&logoColor=white)](https://yourwebsite.com)
+
 passionate about development and design.
 
 I'm currently learning & building cool web applications.
